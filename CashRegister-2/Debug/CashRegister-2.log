@@ -1,0 +1,45 @@
+﻿生成启动时间为 2016/5/28 星期六 下午 9:08:11。
+     1>项目“E:\ImportantFile\Technology\thouhtwork\CashRegister-2\CashRegister-2\CashRegister-2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CashRegister-2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CashRegister.cpp
+         CashRegister.cpp
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(41): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs\vc\include\string.h(197) : 参见“strtok”的声明
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs\vc\include\string.h(197) : 参见“strtok”的声明
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vs\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\importantfile\technology\thouhtwork\cashregister-2\cashregister-2\cashregister.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ImportantFile\Technology\thouhtwork\CashRegister-2\Debug\CashRegister-2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CashRegister-2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\ImportantFile\Technology\thouhtwork\CashRegister-2\Debug\CashRegister-2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ImportantFile\Technology\thouhtwork\CashRegister-2\Debug\CashRegister-2.lib" /MACHINE:X86 "Debug\CashRegister-2.exe.embed.manifest.res"
+         Debug\CashRegister.obj
+         Debug\DiscountBarcode.obj
+         Debug\ProductInformation.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CashRegister-2.exe.embed.manifest" /manifest "Debug\CashRegister-2.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         CashRegister-2.vcxproj -> E:\ImportantFile\Technology\thouhtwork\CashRegister-2\Debug\CashRegister-2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CashRegister-2.unsuccessfulbuild”。
+         正在对“Debug\CashRegister-2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\ImportantFile\Technology\thouhtwork\CashRegister-2\CashRegister-2\CashRegister-2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.95
